@@ -65,7 +65,14 @@ header {
   background-image: linear-gradient(to right,$color-boton, $color-principal );
 }
 
+@media (max-width: 768px) {
+   
+  }
+  
+  @media (max-width: 576px) {
 
+  }
+  
 
 .footer {
     background-image: linear-gradient(to right,$color-boton, $color-principal );
